@@ -1,0 +1,49 @@
+{
+  "prospect": {
+    "name": "Jordan Lee",
+    "role": "Head of Operations",
+    "company": "Acme Tools"
+  },
+  "deal": {
+    "status": "qualified",
+    "score": 17,
+    "score_max": 18,
+    "recommended_action": "Pursue",
+    "recommended_tier": "Better",
+    "deal_value": 14000,
+    "currency": "USD",
+    "biggest_risk": "Exact budget ceiling is not confirmed; only a low-five-figures range was stated."
+  },
+  "next_step": {
+    "owner": "Riley Chen",
+    "action": "Send proposal, SOW draft, and deposit invoice for the Better tier.",
+    "due_date": "2026-06-19"
+  },
+  "follow_ups": [
+    {
+      "day": 0,
+      "date": "2026-06-19",
+      "purpose": "send proposal"
+    },
+    {
+      "day": 2,
+      "date": "2026-06-21",
+      "purpose": "surface objections"
+    },
+    {
+      "day": 4,
+      "date": "2026-06-23",
+      "purpose": "send value-add"
+    },
+    {
+      "day": 5,
+      "date": "2026-06-24",
+      "purpose": "hold or release project start"
+    }
+  ],
+  "needs_confirmation": [
+    "Confirm exact budget ceiling.",
+    "Confirm training is for the two ops people Jordan mentioned.",
+    "Confirm Acme's existing Notion checklist can be reused as a starting input."
+  ]
+}
