@@ -1,4 +1,4 @@
-# Solo Deal Desk 🤝
+# Solo Deal Desk
 
 **Turn one discovery-call transcript into an auditable, contract-ready deal package — in a single run.**
 
